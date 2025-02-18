@@ -1,0 +1,6 @@
+import("libm3")
+c_source("turtle")
+h_source("turtle")
+interface("Turtle")
+Library("turtle")
+
