@@ -9,7 +9,7 @@ M3toC in a "SAFE" interface for any serious work.
 IMPORT M3toC,Turtle;
 
 BEGIN
-  Turtle.Init(300,300); (* initialize the image to be 600x600 *)
+  Turtle.Init(300,300); (* initialize the image to be 300x300 *)
 
   Turtle.Forward(50);
   Turtle.TurnLeft(90.0D0);
